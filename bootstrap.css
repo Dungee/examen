@@ -1668,13 +1668,13 @@ input[type="checkbox"] {
 /*select[multiple],
 select[size] {
   height: auto;
-}*/
+}
 
 select optgroup {
   font-family: inherit;
   font-size: inherit;
   font-style: inherit;
-}
+}*/
 
 input[type="file"]:focus,
 input[type="radio"]:focus,
