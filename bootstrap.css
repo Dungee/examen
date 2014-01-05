@@ -1665,10 +1665,10 @@ input[type="checkbox"] {
   display: block;
 }*/
 
-select[multiple],
+/*select[multiple],
 select[size] {
   height: auto;
-}
+}*/
 
 select optgroup {
   font-family: inherit;
@@ -2003,8 +2003,8 @@ textarea.input-lg {
      -moz-user-select: none;
       -ms-user-select: none;
        -o-user-select: none;
-          /*user-select: none;*/
-}
+          user-select: none;
+}*/
 
 .btn:focus {
   outline: thin dotted #333;
