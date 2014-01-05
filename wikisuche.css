@@ -1,0 +1,31 @@
+
+body {
+    background-color: #79874F;
+    left: 50%;
+    margin-left: -300px;
+    position: absolute;
+    vertical-align: middle;
+    width: 600px;
+}
+h1 {
+    color: #FBFAE4;
+    font-size: 210%;
+    text-align: center;
+}
+form {
+    font-size: 25px;
+}
+input {
+    background-color: #FBFAE4;
+    border-width: 3px;
+    font-size: 20px;
+}
+.klein {
+    font-size: 16px;
+}
+.white {
+    color: #FBFAE4;
+}
+p {
+    margin-left: 160px;
+}
