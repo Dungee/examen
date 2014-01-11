@@ -1,0 +1,32 @@
+
+caption {
+    font-family: 'Liberation Sans',Arial,Helvetica,sans-serif;
+    font-size: 120%;
+    padding-bottom: 12px;
+    text-align: left;
+}
+table {
+    border: 1px solid #808080;
+    border-collapse: collapse;
+}
+th, td {
+    border: 2px solid #808080;
+    font-family: 'Liberation Sans',Arial,Helvetica,sans-serif;
+    font-size: 90%;
+    padding: 3px;
+    text-align: center;
+    vertical-align: top;
+}
+th {
+    background-color: #DDDDDD;
+    font-weight: bold;
+}
+.tag {
+    background-color: #CCFFFF;
+    font-weight: 600;
+}
+.heading {
+    background-color: #FFEFDB;
+    font-size: 130%;
+}
+h4 {text-align: center;}
